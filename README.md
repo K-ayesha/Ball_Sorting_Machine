@@ -11,12 +11,15 @@ Three different materials and ball specifications are introduced. The birch, ste
 
 Our first design began with the use of a TCS34725 color sensor which then was replaced using TCS3200 for better performance. Also, other significant change decisions had been made throughout time like time interval for each operation, restricting light passing during sensor operation, structural changes, etc. 
 
-![System_design](/images/system_design.JPG)             ![CAD](/images/CAD_drawing.JPG) 
+![System_design](/images/system_design.JPG) 
+![CAD](/images/CAD_drawing.JPG) 
 
 There were many setbacks that our project had to deal with such as lack of sufficient time, proper equipment, and an unreliable light-sensitive sensor. The only major change throughout the development was the use of a different sensor. The system is still viable but requires major tweaks to the electrical side which can result in a complete change to the design to help the sensor read the balls more consistently and efficiently. Overall our system completes the goal that is required but lacks fault detection on the electrical side of the project.
 
 #### Design Process
-The detailed report of our three design ideass, decesion process to choose a final design from the conceptual designs, system operation, instrument selection, test procedure instructions for the color sensor calibration, machine setup etc. and the detailed results of our sorting machine performance along with the arduino code developed for the operation, can be found here:
+The detailed report of our three design ideass, decesion process to choose a final design from the conceptual designs, system operation, instrument selection, test procedure instructions for the color sensor calibration, machine setup etc. and the detailed results of our sorting machine performance along with the arduino code developed for the operation, can be found here: https://drive.google.com/file/d/1FuwdwTUe0jDqiXIyqpkNCW3GY0QoSYGs/view?usp=sharing
+
+(Final Arduino code: https://drive.google.com/file/d/1fd9jYJcTaVTXUoULo-p3iFJUNN4YZ2hX/view?usp=sharing )
 
 our designed sorting machine is built with a class project budget of around $40, where the detailed bill of materials is as below:
 
@@ -26,7 +29,7 @@ our designed sorting machine is built with a class project budget of around $40,
 ##### Performance of our system:
 Following is link to one of the test runs in our sorting system which visually demonstrate the mechanism and perfromance of the system:
 
-video: 
+video: https://drive.google.com/file/d/1tOns40lqa4Z2KxHWRYg_cGTOEf1sV6sV/view?usp=sharing
 
 The performance of our system is mostly based on reading from the RGB color sensor. The purpose of this system is to sort 30 balls with 3 different materials, which are wood, steel, and plastic. At the beginning of the project, the team thinks that this should be easy because those samples have distinguished color, but end up it is actually pretty difficult to obtain accurate data. First and foremost, the RGB color sensor is pretty sensitive with the light and disturbance around the operating environment, for example, we obtain a different kind of reading by scanning the same ball, this has actually become the major problems that caused our performance can only maintain with a 75% precision rate. As shown in Fig, the reading for steel ball and plastic are only have 2 readings for both, there are 5 readings for the wooden samples. The main reason why there is so many set of data ie because the light reflectability of steel ball and transparency of the plastic ball also affecting the result of the readings, but the reading for these 2 samples are acceptable. For the wood samples, they do not have a uniform color on the ball, and there are black dots around them which make the readings of the wooden one very inconsistent.
 
