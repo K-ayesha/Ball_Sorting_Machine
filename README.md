@@ -11,7 +11,7 @@ Three different materials and ball specifications are introduced. The birch, ste
 
 Our first design began with the use of a TCS34725 color sensor which then was replaced using TCS3200 for better performance. Also, other significant change decisions had been made throughout time like time interval for each operation, restricting light passing during sensor operation, structural changes, etc. 
 
-![System_design](/images/system_design.JPG)                                               ![CAD](/images/CAD_drawing.JPG) 
+![System_design](/images/system_design.JPG)             ![CAD](/images/CAD_drawing.JPG) 
 
 There were many setbacks that our project had to deal with such as lack of sufficient time, proper equipment, and an unreliable light-sensitive sensor. The only major change throughout the development was the use of a different sensor. The system is still viable but requires major tweaks to the electrical side which can result in a complete change to the design to help the sensor read the balls more consistently and efficiently. Overall our system completes the goal that is required but lacks fault detection on the electrical side of the project.
 
