@@ -20,11 +20,11 @@ The detailed report of our three design ideass, decesion process to choose a fin
 
 our designed sorting machine is built with a class project budget of around $40, where the detailed bill of materials is as below:
 
-image:
+![BOM](/images/Bill_of_material.JPG) 
 
 #### Discussion: 
 ##### Performance of our system:
-Following is one of the test runs in our sorting system which visually demonstrate the mechanism and perfromance of the system:
+Following is link to one of the test runs in our sorting system which visually demonstrate the mechanism and perfromance of the system:
 
 video: 
 
