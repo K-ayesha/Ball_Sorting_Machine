@@ -31,7 +31,7 @@ video:
 The performance of our system is mostly based on reading from the RGB color sensor. The purpose of this system is to sort 30 balls with 3 different materials, which are wood, steel, and plastic. At the beginning of the project, the team thinks that this should be easy because those samples have distinguished color, but end up it is actually pretty difficult to obtain accurate data. First and foremost, the RGB color sensor is pretty sensitive with the light and disturbance around the operating environment, for example, we obtain a different kind of reading by scanning the same ball, this has actually become the major problems that caused our performance can only maintain with a 75% precision rate. As shown in Fig, the reading for steel ball and plastic are only have 2 readings for both, there are 5 readings for the wooden samples. The main reason why there is so many set of data ie because the light reflectability of steel ball and transparency of the plastic ball also affecting the result of the readings, but the reading for these 2 samples are acceptable. For the wood samples, they do not have a uniform color on the ball, and there are black dots around them which make the readings of the wooden one very inconsistent.
 
 
-#### Design Improvements & Operartion Modifications
+##### Design Improvements & Operartion Modifications
 
 Several improvements were done since starting of working in our project. Since with any system working in real life, there is always room for improvements and modifications to make it more efficient, we would definitely be able to do more of improvements given more time and resources.
 
