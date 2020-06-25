@@ -1,8 +1,6 @@
 # Ball_Sorting_Machine
 ## Team Members: Ayesha Khatun, Jing Yang Kuo, Sushil Jagmohan, Yousouf Amologbe
 
-Our Team has worked on the 'Ball Sorting Machine Project' as a part of the MAE (Mechanical & Aerospace Engineering) Lab - I course.  As a team leads, I have organized team meetings, created different project plans, actively encouraged the team members to work on the design for better performance as well as dedicated myself in the design revision process. The overall experience gained from this Mechanical Team project gave me invaluable insights into basic mechanical system designing phases and engineering team management process.
-
 #### Abstract
 This project was aimed at designing an automated system using the fundamental theories and techniques we learned in this course. This system used an Arduino to evenly distribute 30 steel balls into three bins mounted on a ball screw. Our design involved several design components such as a color sensor, an Arduino, breadboard, and a servo motor. In general, our system partially completes the goal that is required but has some inconsistencies in certain areas.
 
