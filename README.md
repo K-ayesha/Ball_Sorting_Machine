@@ -76,4 +76,4 @@ Finally having a fault detection mechanism and response to the error using a thi
 
 [6] Estes, Aaron. MAE 334 Mechanical and Aerospace Engineering Lab 1. Lab 4 -Experimental Analysis of a Flexible Beam. Spring 2019. https://ublearns.buffalo.edu/bbcswebdav/pid-4969982-dt-content-rid-23570746_1/courses/2191_16097/MAE%20334%20-%20Lab%204%20-%20Procedure%20-%202019.pdf
 
-#### *** A PowerPoint presentation on the project can be found here: 
+#### *** A PowerPoint presentation on the project can be found here: https://drive.google.com/file/d/1fd9jYJcTaVTXUoULo-p3iFJUNN4YZ2hX/view?usp=sharing
